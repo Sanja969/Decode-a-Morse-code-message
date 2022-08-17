@@ -24,7 +24,7 @@ I am an aspiring web developer from Serbia.
 👤 **Yohannes Daganchew**
 
 - GitHub: [@githubhandle](https://github.com/yohannesdagnachew/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yohannesdagnachew/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yohannesdagnachew/)
 
 ## 🤝 Contributing
 
