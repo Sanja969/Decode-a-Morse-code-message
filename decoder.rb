@@ -34,7 +34,7 @@ end
 
 def decode_word(code)
   word = ''
-  chars = code.split(' ')
+  chars = code.split
   chars.each do |c|
     word += decode_char(c)
   end
