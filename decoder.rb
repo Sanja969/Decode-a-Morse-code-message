@@ -25,3 +25,13 @@ def decode(code)
 end
 
 puts decode ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
+
+def decode(code)
+  message = ''
+  words = code.split('   ')
+  words.each { |w| message += "#{decode_word(w)} "
+  }
+  message
+end
+
+puts decode ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
